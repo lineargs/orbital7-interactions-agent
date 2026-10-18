@@ -1,6 +1,6 @@
 # Orbital 7 — Stateful SRE Agent with the Gemini Interactions API
 
-Reference implementation for the **"Build Stateful Agentic Apps with the Gemini Interactions API"** codelab.
+Reference implementation for the interactive codelab: **[Build Stateful Agentic Apps with the Gemini Interactions API](https://lineargs.dev/codelabs/stateful-agents-gemini-interactions-api)** on [lineargs.dev](https://lineargs.dev/codelabs).
 
 In this project, you build an autonomous on-call Site Reliability Engineer (SRE) agent for **Orbital 7**, an ageing space station that has just lost main power. Using the stateful **Gemini Interactions API** (`client.interactions`) and `gemini-3.8-flash`, the agent diagnoses hidden hardware faults, recovers from jammed coolant valves and overloaded power configurations, generates a schema-validated incident report, resumes sessions across processes, and branches timelines to test alternate failure modes.
 
